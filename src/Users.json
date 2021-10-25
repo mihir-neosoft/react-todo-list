@@ -1,0 +1,44 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "firstName": "Abc",
+      "lastName": "Xyz",
+      "userName": "abcxyz",
+      "email": "abcxyz@gmail.com",
+      "password": "abc123456"
+    },
+    {
+      "id": 2,
+      "firstName": "Mihir",
+      "lastName": "Adelkar",
+      "userName": "adelkarmihir",
+      "email": "mihir.adelkar@gmail.com",
+      "password": "mihir123456"
+    },
+    {
+      "id": 3,
+      "firstName": "Vighnesh",
+      "lastName": "Adelkar",
+      "userName": "vighneshadelkar",
+      "email": "vighnesh.adelkar@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "firstName": "Swaraj",
+      "lastName": "Pimple",
+      "userName": "swaraj",
+      "email": "swaraj.pimple@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "firstName": "sushama",
+      "lastName": "Adelkar",
+      "userName": "sushamaadelkar",
+      "email": "sushama.adelkar@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
